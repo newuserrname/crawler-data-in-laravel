@@ -9,7 +9,7 @@ Bước 2: tạo 1 thư mục (đặt tên tùy thích) trong App -> copy + past
 và sửa $offset = 0 thành $offset = -1 (tại function file_get_html)
 
 - Khai báo trong file App\Providers\AppServiceProvider.php
-- require_once __DIR__ . '/../(thư mục vừa tạo khi nãy)/simple_html_dom.php' (tại function boot())
+- require_once __DIR__ . '/../(thư mục vừa tạo khi nãy)/simple_html_dom.php' (tại function register())
 
 Bước 3: Tạo command->đặt tên cho lệnh chạy command
 
