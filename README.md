@@ -19,6 +19,6 @@ Bước 5: Viết hàm lấy dữ liệu trong function handle
 
 Bước 6: Chạy lệnh command
 
-plaintext: Lấy nội dung (text) từ trang web
-innertext: Chỉ lấy nội dung bên trong thẻ..
-outertext: Lấy cả thẻ và nội dung bên trong.
+- plaintext: Lấy nội dung (text) từ trang web
+- innertext: Chỉ lấy nội dung bên trong thẻ..
+- outertext: Lấy cả thẻ và nội dung bên trong.
