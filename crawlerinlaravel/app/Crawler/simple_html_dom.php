@@ -49,7 +49,7 @@ function file_get_html(
 	$url,
 	$use_include_path = false,
 	$context = null,
-	$offset = -1,
+	$offset = 0,
 	$maxLen = -1,
 	$lowercase = true,
 	$forceTagsClosed = true,
